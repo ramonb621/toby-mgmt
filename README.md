@@ -6,8 +6,6 @@ For startup companies and established small businesses, handling their employees
 
 Toby Management provides a solution to this problem by allowing users to manage all of their employees’ information in one convenient location. By creating a Toby account, Owners, Executives, and/or Human Resource Managers can create profiles for their employees, enter personal information, and even upload photos and essential documents.
 
-![Toby Gif](./client/public/images/tobyMgmt.gif)
-
 
 ## BUILT WITH:
 
